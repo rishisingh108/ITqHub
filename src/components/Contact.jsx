@@ -20,7 +20,7 @@ function Contact() {
     e.preventDefault();
 
     try {
-      await axios.post("http://localhost:5000/api/contact", formData);
+      await axios.post("https://itqhub.onrender.com/api/contact", formData);
 
       alert("Message Sent Successfully");
 
