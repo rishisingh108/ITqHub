@@ -1,16 +1,110 @@
-# React + Vite
+# ITqHub 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ITqHub is a full stack web application designed to help students explore internships, courses, and IT career opportunities.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Demo
 
-## React Compiler
+### Frontend
+https://i-tq-hub.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Backend API
+https://itqhub.onrender.com
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Project Screenshot
+
+<img width="1208" height="10600" alt="i-tq-hub vercel app_ - Copy" src="https://github.com/user-attachments/assets/4f54d5de-8bef-4ba6-a4a6-8b7e37bd2e1e" />
+
+
+---
+
+## ⚙️ Tech Stack
+
+### Frontend
+- React.js
+- Vite
+- CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB Atlas
+
+### Deployment
+- Vercel
+- Render
+
+---
+
+## ✨ Features
+
+- Responsive UI
+- Internship & Course Showcase
+- Contact Form
+- MongoDB Integration
+- REST API Integration
+- Full Stack Deployment
+
+---
+
+## 📁 Folder Structure
+
+```bash
+ITqHub/
+│
+├── backend/
+│   ├── models/
+│   ├── routes/
+│   └── server.js
+│
+├── src/
+│   ├── components/
+│   ├── assets/
+│   └── pages/
+│
+└── package.json
+```
+
+---
+
+## 🚀 Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/rishisingh108/ITqHub.git
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start Frontend
+
+```bash
+npm run dev
+```
+
+### Start Backend
+
+```bash
+cd backend
+npm install
+node server.js
+```
+
+---
+
+## 👨‍💻 Author
+
+Rishi Singh
+
+GitHub:
+https://github.com/rishisingh108
